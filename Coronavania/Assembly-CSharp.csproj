@@ -112,6 +112,7 @@
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexShakeB.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\VertexZoom.cs" />
      <Compile Include="Assets\TextMesh Pro\Examples &amp; Extras\Scripts\WarpTextExample.cs" />
+     <None Include="Assets\License\License8.txt" />
      <None Include="Assets\Sprites\Title Pack\Spritesheets\spritesheet_stall.xml" />
      <None Include="Assets\Sprites\Emotes Pack\Spritesheets\vector_style6.xml" />
      <None Include="Assets\Sprites\Emotes Pack\Spritesheets\pixel_style5.xml" />
@@ -119,18 +120,23 @@
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface-Mobile.shader" />
      <None Include="Assets\TextMesh Pro\Resources\LineBreaking Leading Characters.txt" />
      <None Include="Assets\Sprites\Toon Characters 1\Female person\Tilesheet\character_femalePerson_sheet.xml" />
+     <None Include="Assets\License\license2.txt" />
      <None Include="Assets\Sprites\Emotes Pack\Spritesheets\pixel_style8.xml" />
      <None Include="Assets\Sprites\Emotes Pack\Spritesheets\vector_style7.xml" />
+     <None Include="Assets\License\License4.txt" />
      <None Include="Assets\Sprites\Emotes Pack\Spritesheets\pixel_style7.xml" />
      <None Include="Assets\Sprites\Toon Characters 1\Robot\Tilesheet\character_robot_sheetHD.xml" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro_Properties.cginc" />
      <None Include="Assets\Sprites\Emotes Pack\Spritesheets\vector_style3.xml" />
      <None Include="Assets\Sprites\Background Elements Redux\Spritesheet\spritesheet_default.xml" />
      <None Include="Assets\Sprites\Platformer Industrial\Spritesheet\platformIndustrial_sheet@2.xml" />
+     <None Include="Assets\License\License9.txt" />
      <None Include="Assets\Sprites\Emotes Pack\Spritesheets\pixel_style1.xml" />
      <None Include="Assets\Sprites\Emotes Pack\Spritesheets\vector_style8.xml" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Custom-Atlas.shader" />
+     <None Include="Assets\License\License5.txt" />
      <None Include="Assets\Sprites\Cloud Tree Pack\Spritesheet\bgElements_spritesheet.xml" />
+     <None Include="Assets\License\License7.txt" />
      <None Include="Assets\Sprites\Generic Items\Spritesheet\genericItems_spritesheet_colored.xml" />
      <None Include="Assets\Sprites\Emotes Pack\Spritesheets\pixel_style2.xml" />
      <None Include="Assets\Sprites\Emotes Pack\Spritesheets\pixel_style6.xml" />
@@ -146,6 +152,7 @@
      <None Include="Assets\Sprites\Map Pack\Spritesheet\mapPack_spritesheet.xml" />
      <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Anton OFL.txt" />
      <None Include="Assets\Sprites\Platformer Industrial\Spritesheet\platformIndustrial_sheet.xml" />
+     <None Include="Assets\License\License3.txt" />
      <None Include="Assets\TextMesh Pro\Examples &amp; Extras\Fonts\Bangers - OFL.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap-Mobile.shader" />
      <None Include="Assets\Sprites\Toon Characters 1\Male adventurer\Tilesheet\character_maleAdventurer_sheetHD.xml" />
@@ -162,6 +169,7 @@
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile Overlay.shader" />
      <None Include="Assets\Sprites\Emotes Pack\Spritesheets\vector_style4.xml" />
      <None Include="Assets\Sprites\Emotes Pack\Spritesheets\vector_style1.xml" />
+     <None Include="Assets\License\License6.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Bitmap.shader" />
      <None Include="Assets\Sprites\Generic Items\Spritesheet\genericItems_spritesheet_white.xml" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMPro.cginc" />
@@ -169,6 +177,7 @@
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF.shader" />
      <None Include="Assets\Sprites\Title Pack\Spritesheets\spritesheet_hud.xml" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Mobile.shader" />
+     <None Include="Assets\License\License1.txt" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_Sprite.shader" />
      <None Include="Assets\Sprites\Toon Characters 1\Female adventurer\Tilesheet\character_femaleAdventurer_sheetHD.xml" />
      <None Include="Assets\TextMesh Pro\Resources\Shaders\TMP_SDF-Surface.shader" />
