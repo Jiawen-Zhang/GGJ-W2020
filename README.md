@@ -10,5 +10,5 @@ https://github.com/Jiawen-Zhang/GGJ-W...
 Link to the Global Game Jam site:
 https://globalgamejam.org/2020/games/...  
 
-Link to the Game Review on YouTube:  
+Link to the Game Review on YouTube:
 https://www.youtube.com/watch?v=MNTDpfAzzZg&t=91s
